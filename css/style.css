@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+@font-face {
+  font-family: 'Aleo';
+  src: url('aleoregular.woff2') format('woff2'),
+       url('aleoregular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aleo';
+  src: url('aleolight.woff2') format('woff2'),
+       url('aleolight.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aleo';
+  src: url('aleolightitalic.woff2') format('woff2'),
+       url('aleolightitalic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Aleo';
+  src: url('aleobold.woff2') format('woff2'),
+       url('aleobold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
